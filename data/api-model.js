@@ -1,5 +1,10 @@
 const database = require("../db-config");
 
-module.exports = {
+function getName(name, gender) {
 
+    return database;
+}
+
+module.exports = {
+    getName
 }
